@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd E:\anti delisgamento\teste1.bat", 0, True
