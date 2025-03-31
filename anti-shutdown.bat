@@ -1,5 +1,5 @@
 @echo off 
 
-:a
+:loop  
 shutdown -a
-goto a
+goto loop
