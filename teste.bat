@@ -1,3 +1,3 @@
 @echo off
-shutdown /s /t 0
+shutdown /s /t 2
 pause
