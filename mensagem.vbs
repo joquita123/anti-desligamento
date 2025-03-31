@@ -1,1 +1,1 @@
-CreateObject("WScript.Shell").Run "cmd E:\anti delisgamento\teste1.bat", 0, True
+CreateObject("WScript.Shell").Run "cmd C:\anti delisgamento\anti-shutdown.bat", 0, True
